@@ -51,4 +51,4 @@ cx    cy  1
 
 The pixel skew is defined as:
 
-![calibration_skew](calibration_skew)
+![calibration_skew](calibration_skew.png)
