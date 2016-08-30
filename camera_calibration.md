@@ -46,7 +46,9 @@ The origin of the camera's coordinate system is at its optical center and its x-
 The intrinsic parameters include the focal length, the optical center, also known as the principal point, and the skew coefficient. The camera intrinsic matrix, K, is defined as:
 
 fx    0   0
+
 s     fy  0
+
 cx    cy  1
 
 The pixel skew is defined as:
