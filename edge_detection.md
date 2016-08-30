@@ -1,7 +1,9 @@
 **Concept of Edge Detection**
 
 *What are edges ?*
+
 Sudden changes of discontinuities in an image are called as edges.
+
 Significant transitions in an image are called as edges.
 
 A picture with edges is shown below.
