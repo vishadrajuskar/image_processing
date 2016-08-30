@@ -20,11 +20,11 @@ Same picture with edges
 
 Geenerally edges are of three types:
 
-    Horizontal edges
+Horizontal edges
 
-    Vertical Edges
+Vertical Edges
 
-    Diagonal Edges
+Diagonal Edges
 
 **Why detect edges**
 
@@ -33,9 +33,10 @@ So first we detect these edges in an image and by using these filters
 and then by enhancing those areas of image which contains edges,
 sharpness of the image will increase and image will become clearer.
 
-Some of the Edge Detection methods I know are,
+Some of the Edge Detection methods are,
 
 Sobel Operator
+
 Canny
 
 **Sobel Operator** : 
@@ -54,11 +55,16 @@ An edge has one-dimensional shape of a ramp and calculating the derivative of th
 **Canny**
 
 The Canny edge detection algorithm : 
+
 The algorithm runs in five separate steps:
 
 i.      **Smoothing**:  Blurring of the image to remove noise. Gaussian filter is used here for smoothing purpose.
+
 ii.     **Finding gradients**:  The edges should be marked where the gradients of the image has large magnitudes(Sobel                                         operator).
+
 iii.    **Non-maximum suppression**:    Only local maxima should be marked as edges.
+
 iv.     **Double thresholding**:    Potential edges are determined by thresholding.
+
 v.      **Edge tracking by hysteresis**:    Final edges are determined by suppressing all edges that are not connected to a                                                very certain (strong) edge.
 
