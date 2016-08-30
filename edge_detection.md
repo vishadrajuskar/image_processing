@@ -7,9 +7,11 @@ Significant transitions in an image are called as edges.
 A picture with edges is shown below.
 
 Original picture
+
 ![maskConcept1](maskConcept1.jpg)
 
 Same picture with edges
+
 ![maskConcept2](maskConcept2.jpg)
 
 **Types of edges**
