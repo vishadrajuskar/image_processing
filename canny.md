@@ -1,6 +1,6 @@
 **Canny edge detector**
 
-*The Canny edge detection algorithm : *
+*The Canny edge detection algorithm :*
 
 The algorithm runs in five separate steps:
 
