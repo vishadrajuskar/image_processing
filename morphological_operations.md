@@ -27,6 +27,8 @@ They have a wide array of uses, i.e :
   If any one pixel of kernel is 1, then image pixel will be 01
   
 
+**Theory :**
+
 Mathematical morphology is a tool for extracting image components useful in the represation and description of region shape,
 such as boundaries, skeletons and convex hulls. 
 
