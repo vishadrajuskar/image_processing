@@ -1,12 +1,3 @@
-**Optical flow**
-
-Optical flow is the distribution of the apparent velocities of objects in an image.
-By estimating optical flow between video frames, you can measure the velocities of objects in the video.
-In general, moving objects that are closer to the camera will display more apparent motion than distant objects that are moving at the same speed.
-
-Optical flow estimation is used in computer vision to characterize and quantify the motion of objects in a video stream,
-often for motion-based object detection and tracking systems.
-
 **What is optical flow ?**
 
 *Optical flow* or *optic flow* is the pattern of apparent motion of objects, surfaces, and edges in a visual scene
@@ -31,3 +22,13 @@ Optical flow works on several assumptions:
 
     The pixel intensities of an object do not change between consecutive frames.
     Neighbouring pixels have similar motion.
+
+**Optical flow**
+
+Optical flow is the distribution of the apparent velocities of objects in an image.
+By estimating optical flow between video frames, you can measure the velocities of objects in the video.
+In general, moving objects that are closer to the camera will display more apparent 
+motion than distant objects that are moving at the same speed.
+
+Optical flow estimation is used in computer vision to characterize and quantify the motion of objects in a video stream,
+often for motion-based object detection and tracking systems.
