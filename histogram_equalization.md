@@ -1,8 +1,9 @@
 **Histogram equalization**
 
-Histogram equalization is a technique for adjusting image intensities to enhance contrast.
+*Histogram equalization* is a technique for adjusting image intensities to enhance contrast.
 
-This method usually increases the global contrast of many images, especially when the usable data of the image is represented by close contrast values.
+This method usually increases the global contrast of many images,
+especially when the usable data of the image is represented by close contrast values.
 
 Through this adjustment, the intensities can be better distributed on the histogram.
 This allows for areas of lower local contrast to gain a higher contrast.
