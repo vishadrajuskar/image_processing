@@ -1,5 +1,9 @@
 **Histogram equalization**
 
+**Histogram**
+Histogram is the intensity distribution of an image.
+
+
 *Histogram equalization* is a technique for adjusting image intensities to enhance contrast.
 
 This method usually increases the global contrast of many images,
