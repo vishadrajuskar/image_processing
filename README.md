@@ -1,2 +1,3 @@
 # image_processing
-Image processing with OpenCV
+This repo contains my efforts on learning Image processing with OpenCV.
+I used C++ as programming language.
