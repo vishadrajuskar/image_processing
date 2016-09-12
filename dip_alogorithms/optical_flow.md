@@ -10,7 +10,7 @@ It is 2D vector field where each vector is a displacement vector showing the mov
 
 Consider the image below,
 
-![optical_flow_basic1](optical_flow_basic1.jpg)
+![optical_flow_basic1](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/optical_flow_basic1.jpg?raw=true)
 
 It shows a ball moving in 5 consecutive frames. The arrow shows its displacement vector. Optical flow has many applications in areas like :
 
