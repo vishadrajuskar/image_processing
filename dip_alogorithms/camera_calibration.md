@@ -41,7 +41,7 @@ The origin of the camera's coordinate system is at its optical center and its x-
 
 ![calibration_rt_coordinates](calibration_rt_coordinates.png)
 
-![calibration_rt_coordinates](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/calibration_rt_coordinates.png)
+![calibration_rt_coordinates](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/calibration_rt_coordinates.png?raw=true)
 
 **Intrinsic Parameters**
 
