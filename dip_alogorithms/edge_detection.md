@@ -10,11 +10,11 @@ A picture with edges is shown below.
 
 Original picture
 
-![maskConcept1](maskConcept1.jpg)
+![maskConcept1](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/maskConcept1.jpg?raw=true)
 
 Same picture with edges
 
-![maskConcept2](maskConcept2.jpg)
+![maskConcept2](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/maskConcept2.jpg?raw=true)
 
 **Types of edges**
 
