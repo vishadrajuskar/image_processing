@@ -40,6 +40,7 @@ The extrinsic parameters consist of a rotation, **R**, and a translation, **t**.
 The origin of the camera's coordinate system is at its optical center and its x- and y-axis define the image plane.
 
 ![calibration_rt_coordinates](calibration_rt_coordinates.png)
+![calibration_rt_coordinates](image_processing/sample_images/calibration_rt_coordinates.png)
 
 **Intrinsic Parameters**
 
