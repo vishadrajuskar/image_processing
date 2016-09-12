@@ -32,14 +32,13 @@ The calibration algorithm calculates the camera matrix using the *extrinsic* and
 
 **->** The *intrinsic* parameters represent a projective transformation from the 3-D camera's coordinates into the 2-D image coordinates.
 
-![calibration_coordinate_blocks](calibration_coordinate_blocks.png)
+![calibration_coordinate_blocks](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/calibration_coordinate_blocks.png?raw=true)
 
 **Extrinsic Parameters**
 
 The extrinsic parameters consist of a rotation, **R**, and a translation, **t**.
 The origin of the camera's coordinate system is at its optical center and its x- and y-axis define the image plane.
 
-![calibration_rt_coordinates](calibration_rt_coordinates.png)
 
 ![calibration_rt_coordinates](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/calibration_rt_coordinates.png?raw=true)
 
@@ -55,4 +54,4 @@ cx    cy  1
 
 The pixel skew is defined as:
 
-![calibration_skew](calibration_skew.png)
+![calibration_skew](https://github.com/prashantchikhalkar/image_processing/blob/master/sample_images/calibration_skew.png?raw=true)
