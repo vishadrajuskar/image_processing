@@ -4,10 +4,10 @@
 
 2) Get deeper into ADAS use cases such as,
     
-    **-> Forward collision warning
+    **-> Forward collision warning**
     
-    -> Lane Detection
+    **-> Lane Detection**
     
-    -> Blind Spot Detection
+    **-> Blind Spot Detection**
     
-    -> Parking Assistance**
+    **-> Parking Assistance**
