@@ -11,3 +11,5 @@
     -> Blind Spot Detection
     
     -> Parking Assistance
+
+3) Get Gtest framework ready for modules, and make doc for same.
