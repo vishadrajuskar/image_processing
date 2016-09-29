@@ -13,3 +13,5 @@
     -> Parking Assistance
 
 3) Get Gtest framework ready for modules, and make doc for same.
+
+4) Get correct test env for gtest.
